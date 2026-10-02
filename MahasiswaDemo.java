@@ -4,10 +4,10 @@ public class MahasiswaDemo {
 
         Mahasiswa m1 = new Mahasiswa();
 
-        m1.nim = "23432";
-        m1.nama = "Yansy Ayuningtyas";
-        m1.alamat = "Nias, Sumatera Utara";
-        m1.kelas = "2A";
+        m1.nim = "254107060154";
+        m1.nama = "Muhammad Deizan Nafi' Fakhri";
+        m1.alamat = "Malang, Jawa Timur";
+        m1.kelas = "2D";
 
         m1.displayBiodata();
     }
